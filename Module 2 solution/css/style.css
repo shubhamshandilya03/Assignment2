@@ -10,7 +10,7 @@
     h1 {
        margin-bottom: 15px;
     text-align: center;
-    color: #ff4532;
+    color:black;
     font-size: 50px;
     }
 
@@ -44,7 +44,7 @@
         text-align: center;
         font-size: 125%;
         font-weight: bold;
-        background-color: #FFB6C1;
+        background-color: #a14855;
 
     }
 
@@ -58,7 +58,7 @@
         text-align: center;
         font-size: 125%;
         font-weight: bold;
-        background-color: #FF0000;
+        background-color: #6f1212;
 
     }
 
@@ -72,7 +72,7 @@
         text-align: center;
         font-size: 125%;
         font-weight: bold;
-        background-color: rgb(223, 212, 121);
+        background-color: rgb(216, 204, 91);
 
     }
 
